@@ -62,4 +62,5 @@ amazon-clone/
 **Shagun**
 
 GitHub: https://github.com/gshagun16
-Live Demo: 
+
+Live Demo:  https://gshagun16.github.io/amazon-clone/
