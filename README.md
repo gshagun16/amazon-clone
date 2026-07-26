@@ -36,9 +36,6 @@ amazon-clone/
 │── box16.jpg
 ```
 
-## 📷 Screenshot
-
-_Add a screenshot of the project here._
 
 ## 📌 What I Learned
 
@@ -65,3 +62,4 @@ _Add a screenshot of the project here._
 **Shagun**
 
 GitHub: https://github.com/gshagun16
+Live Demo: 
