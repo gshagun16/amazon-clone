@@ -59,7 +59,7 @@ amazon-clone/
 
 ## 👩‍💻 Author
 
-**Shagun**
+**Shagun Gupta**
 
 GitHub: https://github.com/gshagun16
 
